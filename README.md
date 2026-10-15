@@ -1,3 +1,5 @@
+![chromawave](.github/preview.png)
+
 # chromawave
 
 Palette extraction, mixing, and contrast checks from the CLI.
